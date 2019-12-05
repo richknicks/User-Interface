@@ -51,5 +51,42 @@ button {
 	backgroud-color: white;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: "Bangers", cursive;
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+}
+
+.body-top {
+	background-color: red;
+	border-top: 5px solid black;
+}
+
+.body-img {
+	/*width: 100%*/
+}
+
+.body-bot {
+	background-color: teal;
+	border-bottom: 5px solid black;
+}
+
+.body-top article {
+	width: 49%;
+	display: inline-block;
+}
+
+.body-bot article {
+	width: 32%;
+	display: inline-block;
+}
+
+footer {
+	background-color: lightgreen;
+}
 
 
