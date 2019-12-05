@@ -5,14 +5,34 @@
 	max-width: 100%;
 }
 body {
-
+	font-family: "TitilliumWeb", sans-serif;
 }
 
 .container {
-	width: 1200px;
+	width: 1000px;
 	background-color: orange;
+	margin: 0 auto;
+}
+
+header {
+	background-color: purple;
+}
+
+nav {
+	background-color: yellow;
 }
 
 .main {
 	background-color: pink;
 }
+
+#left {
+	background-color: pink;
+	display: inline-block;
+	width: 49%;
+	padding: 5% 15%;
+	text-align: center;
+}
+
+
+
