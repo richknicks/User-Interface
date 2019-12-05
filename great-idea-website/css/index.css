@@ -34,5 +34,22 @@ nav {
 	text-align: center;
 }
 
+#right {
+	display: inline-block;
+	width: 49%;
+	text-align: center;
+	margin-top: 50px;
+}
+#title {
+	font-size: 60px;
+}
+button {
+	width: 125px;
+	padding: 5px;
+	font-size: 14px;
+	border: 1px solid black;
+	backgroud-color: white;
+}
+
 
 
