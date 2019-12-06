@@ -107,3 +107,31 @@ header nav a {
 	height: 400px;
 	margin: 20px 0;
 }
+
+.banner .banner-text#b-text {
+	padding-top: 40px;
+}
+
+.banner .banner-text h1 {
+	font-size: 80px;
+	display: inline-block;
+}
+
+.banner .banner-text button {
+	width: 170px;
+	padding: 7px 0;
+	font-size: 1.1em;
+}
+
+.main {
+	vertical-align: top;
+}
+
+.main .main-content {
+	padding: 25px 10px;
+}
+
+.main .main-content {
+	width: 49.5%;
+	display: inline-block;
+}
