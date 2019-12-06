@@ -75,3 +75,18 @@ header {
 	height: 60px;
 	vertical-align: top;
 }
+
+header nav {
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 125px;
+	height: 135px;
+	vertical-align: top;
+}
+
+header nav a {
+	margin: 20px;
+	color: gray;
+	text-decoration: none;
+}
+
