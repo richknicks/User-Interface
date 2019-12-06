@@ -135,3 +135,28 @@ header nav a {
 	width: 49.5%;
 	display: inline-block;
 }
+
+.pic-content .middle-img {
+	padding: 10px 10px;
+}
+
+.content .content-triple {
+	width: 33%;
+	display: inline-block;
+	padding: 25px 10px;
+}
+
+.contact {
+	padding: 25px 10px;
+}
+
+footer {
+	text-align: center;
+	margin: 20px 0;
+	padding: 25px 0;
+}
+
+.address {
+	margin-top: 16px;
+	display: inline-block;
+}
