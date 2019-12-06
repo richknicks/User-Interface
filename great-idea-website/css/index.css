@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-
+/* Your code starts here! */
 .container {
 	width: 900px;
 	margin: 0 auto;
@@ -80,7 +80,7 @@ header nav {
 	display: inline-block;
 	margin-top: 20px;
 	margin-right: 125px;
-	height: 135px;
+	height: 35px;
 	vertical-align: top;
 }
 
@@ -96,6 +96,9 @@ header nav a {
 
 .content-double {
 	display: inline-block;
+}
+
+.banner {
 }
 
 .banner .banner-text {
@@ -130,9 +133,8 @@ header nav a {
 .main .main-content {
 	padding: 25px 10px;
 }
-
 .main .main-content {
-	width: 49.5%;
+	width: 49.5%;	
 	display: inline-block;
 }
 
