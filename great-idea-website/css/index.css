@@ -90,3 +90,20 @@ header nav a {
 	text-decoration: none;
 }
 
+.logo {
+	margin-top: 10px;
+}
+
+.content-double {
+	display: inline-block;
+}
+
+.banner .banner-text {
+	margin: 0 auto;
+	text-align: center;
+	vertical-align: top;
+	display: inline-block;
+	width: 49.5%;
+	height: 400px;
+	margin: 20px 0;
+}
